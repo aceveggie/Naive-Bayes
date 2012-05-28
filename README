@@ -1,10 +1,17 @@
-It a Naive-Bayes classifier written in python. Its a supervised learning technique based on Bayes Theorem. It assumes all features of a feature vector to be independent of each other.
+This project is a <b>Naive-Bayes</b> classifier written in python. 
 
-The feature vector belongs to the class which has maximum posterior probability:
+<b>Naive Bayes classifier</b> is a supervised learning technique based on <b>Bayes Theorem</b>.
 
-Posterior Probability = (Likelihood * Prior Probability)/(Evidence)
+It assumes all features of a feature vector to be independent of each other.
+
+The feature vector belongs to the class which has <b>maximum posterior probability</b>:
+
+<b>Posterior Probability = (Likelihood * Prior Probability)/(Evidence)</b>
 
 Wikipedia Description:
-
-A naive Bayes classifier is a simple probabilistic classifier based on applying Bayes' theorem with strong (naive) independence assumptions. A more descriptive term for the underlying probability model would be "independent feature model".
+<h2>
+"A naive Bayes classifier is a simple probabilistic classifier based on applying Bayes' theorem
+with strong (naive) independence assumptions. A more descriptive term for the underlying
+probability model would be "independent feature model".
+</h2>
 
